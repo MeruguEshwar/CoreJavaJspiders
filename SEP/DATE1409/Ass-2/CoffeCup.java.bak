@@ -1,0 +1,11 @@
+class CoffeCup 
+{
+	String cupOfCofee;
+	String color;
+	int capacity;
+
+	public static void main(String[] args) 
+	{
+		System.out.println("Hello World!");
+	}
+}

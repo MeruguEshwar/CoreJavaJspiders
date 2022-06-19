@@ -1,0 +1,15 @@
+class C 
+{
+	int k=50;
+	static int L=60; 
+
+	public static void nani()
+	{
+		System.out.println("this is staic method of cls C");
+	}
+	public void main()
+	{
+		System.out.println("This is non static:");
+	}
+
+}

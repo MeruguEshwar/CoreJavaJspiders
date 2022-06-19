@@ -1,0 +1,19 @@
+import java.util.Scanner;
+class table 
+{
+	public static void main(String[] args) 
+	{
+		Scanner scan=new Scanner(System.in);
+
+			System.out.println(" enter the mul table...");
+			int n=scan.nextInt();
+
+			System.out.println("enter the end point");
+			int ep=scan.nextInt();
+
+			for(int i=1;i<=ep;i++)
+			{
+				System.out.println( n +"*" +i+"="+(n*i));
+			}
+	}
+}

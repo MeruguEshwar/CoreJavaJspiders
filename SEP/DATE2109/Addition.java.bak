@@ -1,0 +1,22 @@
+class Addition 
+{
+	public static void add(int i,int j) 
+	{
+		System.out.println(i+j);
+	}
+
+	public static void add(double i,double j) 
+	{
+		System.out.println(i+j);
+	}
+
+	public static void add(int i,double j) 
+	{
+		System.out.println(i+j);
+	}
+
+	public static void main(String[] args) 
+	{
+		System.out.println("Hello World!");
+	}
+}

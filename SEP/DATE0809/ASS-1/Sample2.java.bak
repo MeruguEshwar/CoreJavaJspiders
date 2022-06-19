@@ -1,0 +1,4 @@
+interface Sample2 implements Sample1
+{
+	void test2();
+}

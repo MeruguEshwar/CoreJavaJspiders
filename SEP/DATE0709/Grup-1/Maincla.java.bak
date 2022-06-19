@@ -1,0 +1,13 @@
+class Maincla
+{
+	public static void main(String[] args) 
+	{
+		Circle c1 = new Circle();
+		Rect r1 = new Rect();
+		Tri t1 = new Tri();
+		
+		c1.Circle();
+		r1.Rect();
+		t1.Tri();
+	}
+}

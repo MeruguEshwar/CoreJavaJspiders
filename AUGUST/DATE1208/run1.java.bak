@@ -1,0 +1,22 @@
+class run1
+{
+	public static void main(String[] args) 
+	{
+		System.out.println("Main starts....");
+		nani();
+		mani new=obj.mani();
+		obj.mani();
+		System.out.println("Main ends....");
+	}
+
+	public static void nani() 
+	{
+		System.out.println("Dz is nani....");
+	}
+
+	public void mani() 
+	{
+		System.out.println("Dz is mani....");
+		
+	}
+}

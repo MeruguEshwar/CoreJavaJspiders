@@ -1,0 +1,4 @@
+abstract interface Sample9
+{
+	abstract void test9();
+}

@@ -1,0 +1,4 @@
+abstract class P 
+{
+	abstart public void test(); 
+}

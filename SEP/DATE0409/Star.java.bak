@@ -1,0 +1,8 @@
+class Star extends Shape 
+{
+	public void spin() 
+	{
+		System.out.println("Dz is star class:");
+		spin();
+	}
+}

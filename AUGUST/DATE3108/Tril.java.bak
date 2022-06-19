@@ -1,0 +1,13 @@
+class Tril 
+{
+	static int a=10;
+	public static void nani()
+	{
+		System.out.println("a:"+a);
+	}
+	public void  mani()
+	{
+		System.out.println("This is non static:");
+	}
+	
+}

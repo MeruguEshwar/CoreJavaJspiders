@@ -1,0 +1,17 @@
+class swtch1
+{
+	public static void main(String[] args) 
+	{
+		char grade='A';
+		switch(grade)
+		{
+			case 'A':System.out.println("1st rank:");
+			case 'B':System.out.println("2nd rank:");
+			case 'C':System.out.println("3rd rank:");
+			case 'D':System.out.println("Pass....:");
+			case 'E':System.out.println("Fail....:");
+			default:System.out.println("Invalid....");
+			break;
+		}
+	}
+}

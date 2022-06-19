@@ -1,0 +1,14 @@
+class Soser 
+{
+	String color;
+
+	Soser(String color)
+	{
+		this.color = color;
+	}
+
+	public void Sclr() 
+	{
+		System.out.println("Soser color is white");
+	}
+}

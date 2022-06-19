@@ -1,0 +1,7 @@
+class HeroHonda  
+{
+	public  void start() 
+	{
+		System.out.println(""kick start");
+	}
+}

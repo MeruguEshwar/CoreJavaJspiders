@@ -1,0 +1,14 @@
+class even 
+{
+	public static void main(String[] args) 
+	{
+		if(int k=1;k<=10;k++)
+		{
+			if(k%2==0)
+			{
+				System.out.println(k);
+			}
+
+		}
+	}
+}

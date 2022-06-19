@@ -1,0 +1,4 @@
+abstract class Sample10
+{
+	abstract public void test10();
+}

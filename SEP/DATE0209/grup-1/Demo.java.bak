@@ -1,0 +1,13 @@
+class Demo extends Sample
+{
+	Demo(int j)
+	{
+		super(i);
+		this.j=j;
+	}
+	public void info()
+	{
+		System.out.println(i);
+		System.out.println(j);
+	}
+}

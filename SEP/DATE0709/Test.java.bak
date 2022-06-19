@@ -1,0 +1,22 @@
+class Father 
+{
+	public void marry() 
+	{
+		System.out.println("Arranged marriage");
+	}
+}
+class son extends Father
+{
+	public void marry() 
+	{
+		System.out.println("Run from Love marriage");
+	}
+}
+class Test
+{
+	public static void main()
+	{
+
+
+	}
+}

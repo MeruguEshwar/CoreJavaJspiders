@@ -1,0 +1,10 @@
+class Demo 
+{
+	public static void main(String[] args) 
+	{
+		final int a = 23;/*final means that can't re intialized value*/
+
+		a = 56;
+		System.out.print(a);
+	}
+}

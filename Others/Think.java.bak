@@ -1,0 +1,13 @@
+class Think
+{
+	public static void main(String[] args) 
+	{
+		double obj=nani(10,20,0.5)
+		System.out.println(t1.a);
+	}
+	public static double nani(int a,int b,double c)
+	{
+		double res = (a*b*c)/100;
+		return res;
+	}
+}

@@ -1,0 +1,22 @@
+class patrn2
+{
+	public static void main(String[] args) 
+	{
+		int spc=2;
+		int str=1;
+		for(int i=1;i<=3;i++)
+		{
+			for(int x=1;x<=spc;x++)
+			{
+				System.out.print(" ");
+			}
+			for(int y=1;y<=9;y++)
+			{
+				System.out.print(i);
+			}
+		spc--;
+		str+=2;
+		System.out.println();
+		}
+	}
+}

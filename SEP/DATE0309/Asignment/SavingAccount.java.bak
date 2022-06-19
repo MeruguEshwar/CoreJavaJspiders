@@ -1,0 +1,18 @@
+class SavingAccount extends Account
+{
+	int minBal;
+	
+	SavingAccount(int Accno,String AccHolderName,double Bal,int minBal) 
+	{
+		super(Accno,AccHolderName,Bal);
+		this.minBal = minBal;
+	}
+	public void displayAccountDetails()
+	{
+		System.out.println("********SavingAccount*****")
+		System.out.println("Accno is:"+Accno);
+		System.out.println("AccHolderName:"+AccHolderName);
+		System.out.println("Bal:"+Bal);
+		System.out.println("minBal:"+minBal);
+	}
+}

@@ -1,0 +1,14 @@
+class A 
+{
+	static int x=10;
+	int y=20;
+	public static void nani()
+	{
+		System.out.println("x:"+x);
+	}
+	public void mani()
+	{
+	
+		System.out.println("y:"+y);
+	}
+}

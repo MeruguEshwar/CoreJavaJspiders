@@ -1,0 +1,9 @@
+class Customer 
+{
+	Saucer s1 = new Saucer("Circular");
+
+	public static void main(String[] args) 
+	{
+		System.out.println("Hello World!");
+	}
+}

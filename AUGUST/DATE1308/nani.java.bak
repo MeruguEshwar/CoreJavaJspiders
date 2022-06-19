@@ -1,0 +1,10 @@
+class nani
+{
+	static int a=8;
+
+	public static void main(String argv[])
+	{
+		System.out.println(a);
+	}
+	
+}

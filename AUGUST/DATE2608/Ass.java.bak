@@ -1,0 +1,14 @@
+class Ass
+{
+	double leng;
+	int breath;
+	public void printPerimeter(leng,breath)
+	{
+		System.out.println(2*leng*brea);
+	}
+	public static void main(String[] args) 
+	{
+		Ass A1=new Ass(5);
+		A1.printPerimeter();
+	}
+}

@@ -1,0 +1,8 @@
+class Sample 
+{
+	int i;
+	Sample(int i)
+	{
+		this.i=i;
+	}
+}

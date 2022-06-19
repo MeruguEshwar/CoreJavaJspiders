@@ -1,0 +1,4 @@
+class Rect extends Shape 
+{
+	
+}

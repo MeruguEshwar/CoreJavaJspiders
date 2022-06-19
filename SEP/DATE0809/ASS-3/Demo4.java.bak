@@ -1,0 +1,17 @@
+class Demo4 implements Sample6
+{
+	publlic void test4()
+	{
+		System.out.println("test4");
+	}
+
+	publlic void test5()
+	{
+		System.out.println("test5");
+	}
+
+	publlic void test6()
+	{
+		System.out.println("test6");
+	}
+}

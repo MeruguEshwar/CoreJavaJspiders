@@ -1,0 +1,11 @@
+interface Sample
+{
+	void test();
+}
+class Demo implements Sample
+{
+	public void test()
+	{
+
+	}
+}

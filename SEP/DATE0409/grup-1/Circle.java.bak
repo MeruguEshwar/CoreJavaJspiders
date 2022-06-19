@@ -1,0 +1,8 @@
+class Circle extend Shape
+{
+	public void spin() 
+	{
+		System.out.println("Dz is shape class:");
+		spin();
+	}
+}

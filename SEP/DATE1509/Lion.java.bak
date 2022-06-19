@@ -1,0 +1,17 @@
+class Lion implements Animal
+{
+	public static void main(String argv[])
+	{
+		lionNoise(new Lion());
+		dogNoise(new dog());
+	}
+	public void lionNoise(Lion l)
+	{
+		l.noise();
+	}
+
+	public void dogNoise(dog d)
+	{
+		d.noise();
+	}
+}

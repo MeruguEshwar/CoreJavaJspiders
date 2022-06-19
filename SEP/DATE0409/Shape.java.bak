@@ -1,0 +1,11 @@
+class Shape 
+{
+	Shape()
+	{
+
+	}
+	public void spin() 
+	{
+		System.out.println("clock wise");
+	}
+}

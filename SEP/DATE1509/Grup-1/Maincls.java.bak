@@ -1,0 +1,17 @@
+class Maincls 
+{
+	public static void main(String[] args) 
+	{
+		Shapenani(new Shape());
+		Circlenani(new Circle());
+	}
+	public static void Shapenani(Shape s)
+	{
+		s.rotate();
+	}
+
+	public static void Circlenani(Circle c)
+	{
+		c.rotate();
+	}
+}

@@ -1,0 +1,11 @@
+class Maincls 
+{
+	Cup c1 = new Cup("cup color is white");
+	c1.coffe();
+	c1.Tea();
+
+	public static void main(String[] args) 
+	{
+		System.out.println("Hello World!");
+	}
+}

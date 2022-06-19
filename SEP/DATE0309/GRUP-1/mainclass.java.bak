@@ -1,0 +1,7 @@
+class main
+{
+	public static void main(String argv[])
+	{
+		y y1=new y();
+	}
+}
